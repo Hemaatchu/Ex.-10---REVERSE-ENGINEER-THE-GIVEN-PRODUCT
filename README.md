@@ -36,8 +36,8 @@
 
 ### Output:
 
-### Name:DURGADEVI P
-### Register Number:212223100006
+### Name:HEMAVATHY S
+### Register Number:212223230076
 ![image](https://github.com/user-attachments/assets/b72c866b-947b-4e44-a6a4-65423aa09585)
 
 ## RESULT:
