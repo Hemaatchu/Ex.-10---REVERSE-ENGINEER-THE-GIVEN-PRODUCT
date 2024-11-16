@@ -1,6 +1,6 @@
 # Ex.No. 4 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 24/10/2024
+### DATE: 28/10/2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -35,11 +35,10 @@
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/b72c866b-947b-4e44-a6a4-65423aa09585)
-
 
 ### Name:DURGADEVI P
 ### Register Number:212223100006
+![image](https://github.com/user-attachments/assets/b72c866b-947b-4e44-a6a4-65423aa09585)
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
